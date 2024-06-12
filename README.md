@@ -30,9 +30,9 @@ I described my way of steping through the data in markdown along with code in Py
 
 ## Results <a name="results"></a>
 
-The results of my analysis are summarized on my personal blog on https://breuerei.de/?p=622
+The results of my analysis are summarized on my personal blog on [breuerei.de](https://breuerei.de/?p=622).
 
 ## Licensing, Authors, Acknowledgements <a name="licensing"></a>
 
-I have to thank Airbnb a lot for sharing this insightful dataset. Licensing Information can be found on Kaggle over the link https://www.kaggle.com/datasets/airbnb/seattle/data.
+I have to thank Airbnb a lot for sharing this insightful dataset. Licensing Information can be found on Kaggle over the [link](https://www.kaggle.com/datasets/airbnb/seattle/data).
 The rest of the code is written by myself and you can feel free to use it.
