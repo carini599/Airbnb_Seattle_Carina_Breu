@@ -26,7 +26,7 @@ My research question therefore are:
 ## File Descriptions <a name="files"></a>
 
 My exploratory work on the airbnb dataset is shown and described in detail in the file airbnb_seattle_notebook.ipynb
-I described my way of steping through the data in markdown along with code in Python and charts that visualize my findings. The zip folder data.zip contains all necessary data csv files to execute the code.
+I described my way of steping through the data in markdown along with code in Python and charts that visualize my findings. The files listing.csv and calendar.csv contain all necessary data to execute the code.
 
 ## Results <a name="results"></a>
 
