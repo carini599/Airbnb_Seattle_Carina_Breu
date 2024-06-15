@@ -19,8 +19,8 @@ To step into, I analyzed the market of airbnb listings in 2016 according to serv
 I then wanted to find out how these characteristics are related to the prices and finally how prices change over time. 
 
 My research question therefore are:
-1. What are the listings characteristics for airbnb accomodations and how are they distributed?  
-2. How are the rental prices on airbnb related to the accomodation characteristics?
+1. What are typical characteristics and locations of airbnb accommodations in Seattle?  
+2. How are the rental prices related to accommodation characteristics?
 3. How do rental prices change over time?
 
 ## File Descriptions <a name="files"></a>
@@ -30,7 +30,7 @@ I described my way of steping through the data in markdown along with code in Py
 
 ## Results <a name="results"></a>
 
-The results of my analysis are summarized on my personal blog on [breuerei.de](https://breuerei.de/?p=622).
+The results of my analysis are summarized on my personal blog on [breuerei.de](https://breuerei.de/understanding-airbnb-prices-insights-for-your-next-trip).
 
 ## Licensing, Authors, Acknowledgements <a name="licensing"></a>
 
